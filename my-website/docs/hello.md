@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Hi!"
+sidebar_label: "Test Document"
 # sidebar_position: 3
 ---
 
